@@ -1,0 +1,20 @@
+html{
+    background-color:black
+}
+#title{
+    margin-left: 42%;
+    color: white;
+    
+}
+.time{
+    margin-left: 44%;
+    color:aliceblue;
+}
+#Reset{
+    float:left;
+    margin-left: 44%;
+}
+.controls{
+    margin-left: 43%;
+    
+}
